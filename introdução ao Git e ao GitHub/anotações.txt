@@ -1,2 +1,3 @@
 Link para download do Git: https://git-scm.com/download/win
 O gt besh é um terminal estendido para otimizar o uso do git
+- No momento estou estudando introdução ao python
